@@ -1,0 +1,14 @@
+{
+    "name": "logger",
+    "keywords": "logger, small logger",
+    "description": "Elegant and small logger",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/avdosev/logger.git"
+    },
+    "authors": {
+      "name": "Avdosev N.",
+      "url": "https://github.com/avdosev"
+    },
+    "platforms": "*"
+}
